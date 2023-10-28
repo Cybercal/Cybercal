@@ -1,15 +1,15 @@
-# Hi there 👋
+### Hi there 👋
 
 Generally, My name is **程羡鱼**, a developer in EECS. \
 Currently, I’m a Msc student in the University College London.
 
-## Bio
+### Bio
 
 I expect to graduate with master's degree in Sep 2024 from Department of Computer Science, University College London, UK. \
 Before, I earned bachelor of Science degree from College of Engineering and Applied Science, University of Cincinnati, United States.  \
 Meanwhile, I obtained my bachelor of Engineering degree in Electrical Engineering and Automation from Chongqing University, China. 
 
-## Interests
+### Interests
 
 I am beginner in the following areas:
 
@@ -17,7 +17,7 @@ I am beginner in the following areas:
 * Vision and Graphics
 * Robotics and Control
 
-## Index of My Github
+### Index of My Github
 Will be available soon.
 
 ### Links
