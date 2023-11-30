@@ -1,13 +1,11 @@
 ## Hi there 👋
 
 Generally, My name is **程羡鱼**, a developer in EECS. \
-Currently, I’m a Msc student in the Department of Computer Science, University College London.
 
 ### Bio
 
+Currently, I’m a Msc student in the Department of Computer Science, University College London.\
 I expect to graduate with master's degree in Sep 2024 from University College London, UK. \
-Before, I earned bachelor of Science degree from College of Engineering and Applied Science, University of Cincinnati, United States.  \
-Meanwhile, I obtained my bachelor of Engineering degree in Electrical Engineering and Automation from Chongqing University, China. 
 
 ### Interests
 
