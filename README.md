@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-Generally, My name is **程羡鱼**, a developer in EECS. \
+Here is **程羡鱼**, a developer in EECS. \
 
 ### Bio
 
 Currently, I’m a Msc student in the Department of Computer Science, University College London.\
-I expect to graduate with master's degree in Sep 2024 from University College London, UK. \
+I expect to graduate with master's degree in Sep 2024 from University College London, UK.
 
 ### Interests
 
