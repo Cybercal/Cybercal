@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Here is **程羡鱼**, a developer in EECS. \
+Here is **程羡鱼**, a developer in EECS.
 
 ### Bio
 
