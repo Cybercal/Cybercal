@@ -15,7 +15,7 @@ I am beginner in the following areas:
 * Vision and Graphics
 * Robotics and Control
 
-My personal website is here: *[cybercal](https://cybercal.github.io/)*.
+My personal website is here: *[Waterbot's Homepage](https://cybercal.github.io/)*.
 
 ### Catalog
 Will be available soon.
