@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Here is **程羡鱼**, a developer in EECS.
+Here is **Waterbot**, a developer and researcher in EECS.
 
 ### Bio
 
@@ -14,6 +14,8 @@ I am beginner in the following areas:
 * Pattern and Learning
 * Vision and Graphics
 * Robotics and Control
+
+My personal website is here: *[cybercal](https://cybercal.github.io/)*.
 
 ### Catalog
 Will be available soon.
