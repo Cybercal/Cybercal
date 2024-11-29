@@ -1,11 +1,7 @@
 ## Hi there 👋
 
-Here is **Waterbot**, a developer and researcher in EECS.
-
-### Bio
-
+Here is **Waterbot**, a developer and engineer in EECS.
 Currently, I’m a Msc student in the Department of Computer Science, University College London.\
-I expect to graduate with master's degree in Sep 2024 from University College London, UK.
 
 ### Interests
 
