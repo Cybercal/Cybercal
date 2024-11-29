@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Here is **Waterbot**, a developer and engineer in EECS.
+Here is **Waterbot**, a developer and engineer in EECS.\
 Currently, I’m a Msc student in the Department of Computer Science, University College London.\
 
 ### Interests
